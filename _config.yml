@@ -10,17 +10,16 @@
 ############################
 
 # Name of website
-title: My Website
+title: My <Veryyyy Presently> Good Life
 
 # Your name to show in the footer
-author: Some Person
-
+author: Anonymous Aida
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Newbie to the CS life. True to real life"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
