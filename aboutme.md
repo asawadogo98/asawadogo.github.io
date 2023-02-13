@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TMI
+title: About Me
 subtitle: Important things you should know 
 ---
 
