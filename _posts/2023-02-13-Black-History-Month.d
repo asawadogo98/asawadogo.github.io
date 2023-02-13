@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 ---
 To celebrate my Black life, I'm going to list 5 reasons why
-
+![alt text](https://github.com/asawadogo98/asawadogo98.github.io/assests/img/77351.jpg)
 1. Beacause my mother, who will never let me forget that she born me. 
 1. Black youtube naturaturals who convinced me I should wait at least 3-4 years to see theresults of their potions. 
 1. Mac and Cheese
