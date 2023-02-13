@@ -1,16 +1,17 @@
 ---
 layout: page
 title: TMI
-subtitle: Why you'd want to go on a date with me
+subtitle: Important things you should know 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Aida. You couldn't have missed that. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am 22 years old and have decided I to be mature at the age of 25. 
+- I have two black cats. Their names Nile and Neptune. They're sisters. 
+- Speaking of sisters, I am the oldest sibling to two younger sisters. 
+- I love to explore, write, and play. 
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
