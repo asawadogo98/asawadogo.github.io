@@ -12,6 +12,3 @@ My name is Aida. You couldn't have missed that. I have the following qualities:
 - I love to explore, write, and play. 
 
 What else do you need?
-
-### My story
-
