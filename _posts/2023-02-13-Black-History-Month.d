@@ -11,8 +11,8 @@ comments: true
 ! [This is alt text] (https://asawadogo98/asawadogo98.github.io/assets/img/Anxiety)
 
 
-1.Beacause my mother, who will never let me forget that she born me. 
-1.Black youtube naturaturals who convinced me I should wait at least 3-4 years to see theresults of their potions. 
-1.Mac and Cheese
-1.Twitter during the pandemic 
-1.Poorly executing TikTok dances
+1. Beacause my mother, who will never let me forget that she born me. 
+1. Black youtube naturaturals who convinced me I should wait at least 3-4 years to see theresults of their potions. 
+1. Mac and Cheese
+1. Twitter during the pandemic 
+1. Poorly executing TikTok dances
