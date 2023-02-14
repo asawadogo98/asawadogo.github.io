@@ -2,6 +2,7 @@
 layout: post
 title: Happy Black History Month!
 subtitle: Let's talk about my Black life
+cover-img: /assets/img/unnamed.jpg
 gh-repo: asawadogo98/asawadogo98
 gh-badge: [star, fork, follow]
 tags: [test]
