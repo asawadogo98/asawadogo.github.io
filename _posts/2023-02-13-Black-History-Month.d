@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
-##To celebrate my Black life, I'm going to list 5 reasons why:
+#To celebrate my Black life, I'm going to list 5 reasons why:
 ! [This is alt text] (https://asawadogo98.github.io/asset/img/unnamed.jpg)
 1. Because my mother, who will never let me forget that she born me. 
 1. Black youtube naturals who convinced me I should wait at least 3-4 years to see theresults of their potions. 
