@@ -280,6 +280,11 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - /_posts/2020-02-28-test-markdown.md
+
+
+
+ 
 
 plugins:
   - jekyll-paginate
