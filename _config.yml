@@ -280,9 +280,8 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-  - 2020-02-26-flake-it-till-you-make-it.md  
+  - 2020-02-26-flake-it-till-you-make-it.md
   - 2020-02-28-test-markdown.md
-
 
 
 
