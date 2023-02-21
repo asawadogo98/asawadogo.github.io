@@ -274,6 +274,7 @@ defaults:
 exclude:
   - CHANGELOG.md
   - 2020-02-28-test-markdown.md
+  - 2020-02-26-flake-it-till-you-make-it.md
   - CNAME
   - Gemfile
   - Gemfile.lock
