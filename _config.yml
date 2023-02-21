@@ -273,6 +273,7 @@ defaults:
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
+  - 2020-02-28-test-markdown.md
   - CNAME
   - Gemfile
   - Gemfile.lock
