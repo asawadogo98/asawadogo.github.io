@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Happy Black History Month!
-subtitle: Let's talk about my Black life
-cover-img: /assets/img/unnamed.jpg
+title: My Sweater Weather Assignment 
+cover-img: /assets/img/SweaterWeather.png
 comments: true
 ---
 ## My Sweater Weather Assignment 
