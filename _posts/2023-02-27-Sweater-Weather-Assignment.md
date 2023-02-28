@@ -6,4 +6,4 @@ cover-img: /assets/img/unnamed.jpg
 comments: true
 ---
 # My Sweater Weather Assignment 
-![Sweater](https://asawadogo98.github.io/assets/img/ScreenShot2023-02-27at10.13.22PM.png)
+![Sweater](https://asawadogo98.github.io/assets/img/SweaterWeather.png)
