@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Plushy Redux Program!
+title: My Odd Menu Assignment!
 gh-repo: asawadogo98/asawadogo98
 gh-badge: [star, fork, follow]
 comments: true
