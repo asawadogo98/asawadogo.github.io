@@ -11,7 +11,7 @@ comments: true
 ![plushyfront](https://asawadogo98.github.io/assets/img/Optimized-plushyfront.png)
 # Here's my plushy from the back:
 # Here's the inside of the plushy:
-![insideplushy](https://asawadogo98.github.io/assets/img/IMG-3001.PNG)
+![insideplushy](https://asawadogo98.github.io/assets/img/insideplushy.png)
 # Here's what the componen's looked like when I tested them with  alligator clips.
 ![Alligatorclips](https://asawadogo98.github.io/assets/img/Alligatorcliplushy.png)
 # Special Edition Photo: Scary-Cute Plushy
