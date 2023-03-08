@@ -8,7 +8,7 @@ comments: true
 # My journey to building my prototype: 
  For this porject, I was ashked to build a plushy that had LED components. Using my newly learned knowlege of simple circuits, I was able to attach a button,  a homemade switch (my orginal one broke), and three LED lights together. I'm really proud of my work. 
 # Here's my plushy all lit up from the front: 
-(https://asawadogo98.github.io/assets/img/img-2999.png)
+(https://asawadogo98.github.io/assets/img/IMG-2999.PNG)
 # Here's my plushy from the back:
 # Here's the inside of the plushy:
 # Here's what the componen's looked like when I tested them with  alligator clips.
