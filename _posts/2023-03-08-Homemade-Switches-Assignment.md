@@ -9,6 +9,8 @@ comments: true
 Although, it was lit during the alligaror clip stage and even while I was sewing.
 ![completedhomemadeswitch](https://asawadogo98.github.io/assets/img/unnamed.jpg)
 # Alligator Prototyping Stage:
-# Paper Prototype
+This is the same image as the one in my plush prohject ebcause I was working on both assignemnts at the same time and ahd to ake a switch for my plush.
+![Alligatorclips](https://asawadogo98.github.io/assets/img/Alligatorcliplushy.png)
+# Paper Prototype:
 # PRO-TIP:
 I reccomend not falling behind on project, so that you don't have to catch up and rush.
