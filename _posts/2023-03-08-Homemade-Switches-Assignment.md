@@ -13,6 +13,6 @@ This is the same image as the one in my plush prohject ebcause I was working on 
 ![Alligatorclips](https://asawadogo98.github.io/assets/img/Alligatorcliplushy.png)
 # Paper Prototype:
 ![paperprottype](https://asawadogo98.github.io/assets/img/IMG-3009.jpg)
-![paperprottypetwo](https://asawadogo98.github.io/assets/img/IMG-3009.jpg)
+![paperprottypetwo](https://asawadogo98.github.io/assets/img/IMG-3010.jpg)
 # PRO-TIP:
 I reccomend not falling behind on project, so that you don't have to catch up and rush.
