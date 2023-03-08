@@ -11,3 +11,5 @@ comments: true
 ![LEDON](https://asawadogo98.github.io/assets/img/on.png)
 # LEDS OFF:  
 ![LEDOFF](https://asawadogo98.github.io/assets/img/off.png)
+# PRO-TIP:
+Take your time to think logically, so that you can understand the conditions you have to set when you write your code.
