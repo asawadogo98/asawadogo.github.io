@@ -11,4 +11,4 @@ comments: true
 # Here's my plushy from the back:
 # Here's the inside of the plushy:
 # Here's what the componen's looked like when I tested them with  alligator clips.
-# Special Edition Photo: Scary-Cute Plush
+# Special Edition Photo: Scary-Cute Plushy
