@@ -1,7 +1,6 @@
 ---
 layout: post
 title: My Plushy Prototype!
-cover-img:
 gh-repo: asawadogo98/asawadogo98
 gh-badge: [star, fork, follow]
 comments: true
