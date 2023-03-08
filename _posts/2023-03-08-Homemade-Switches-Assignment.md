@@ -1,7 +1,6 @@
 ---
 layout: post
 title: My Home-Made Switch Assignemnt
-subtitle: Let's talk about my Black life
 gh-repo: asawadogo98/asawadogo98
 comments: true
 ---
