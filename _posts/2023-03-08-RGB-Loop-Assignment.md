@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My RED-BlUE-GREEN Program!
+title: My RED-GREEN-BLUE LED Program!
 gh-repo: asawadogo98/asawadogo98
 gh-badge: [star, fork, follow]
 comments: true
