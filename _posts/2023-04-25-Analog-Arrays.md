@@ -10,4 +10,4 @@ This Assignment really tested our understanding of arrays in code. Using one arr
 # My LilyPad Board With the Lit Up LED:
 ![Board](https://asawadogo98.github.io/assets/img/on.png)
 # PRO-TIP:
-Take your time to think logically, so that you can understand the conditions you have to set when you write your code.
+Remember that you have to account for a random brightness level AND the random pin. 
