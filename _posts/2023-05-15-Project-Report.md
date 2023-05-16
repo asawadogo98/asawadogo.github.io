@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Report: My Glow in the Dark, LED Bonnet!
+title: Project Report-- My Glow in the Dark, LED Bonnet!
 gh-repo: asawadogo98/asawadogo98
 gh-badge: [star, fork, follow]
 comments: true
