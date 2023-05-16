@@ -35,7 +35,7 @@ I initially planned to make a bonnet because it was a way to recreate an item th
 #### This is an alligator clip prototype of the digital LEDs that were connected to a battery and switch: 
 ![switch](https://asawadogo98.github.io/assets/IMG-5080.jpg)
 # Working Video:
-![video][![Alternate Text]({(https://asawadogo98.github.io/assets/IMG-5071.MOV)})][{(https://drive.google.com/file/d/1y-2RMFhecF3QnsuKBPvsudJcdKfmLoPM/view?usp=share_link)} "IMG-5071.MOV")]
+![video][{(https://drive.google.com/file/d/1y-2RMFhecF3QnsuKBPvsudJcdKfmLoPM/view?usp=share_link)} "IMG-5071.MOV")]
 # Three Tips to My Past Self:
 1. Test your light sensor at different times of day because the value of “dark” fluctuates in part based on the amount of natural light in the room. 
 1. Use a safety pin to pull your elastic band through the two sheets of fabric to make it easier. 
