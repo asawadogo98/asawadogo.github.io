@@ -34,7 +34,7 @@ I initially planned to make a bonnet because it was a way to recreate an item th
 ![sensor](https://asawadogo98.github.io/assets/IMG_4924.jpeg)
 #### This is an alligator clip prototype of the digital LEDs that were connected to a battery and switch: 
 ![switch](https://asawadogo98.github.io/assets/IMG-5080.jpg)
-# Working Video:
+# Click to See Everything in action on Video:
 ! [video](https://github.com/asawadogo98/asawadogo98.github.io/assets/IMG-5071.MOV)
 # Three Tips to My Past Self:
 * Test your light sensor at different times of day because the value of “dark” fluctuates in part based on the amount of natural light in the room. 
