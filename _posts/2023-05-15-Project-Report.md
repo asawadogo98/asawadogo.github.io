@@ -45,3 +45,5 @@ I initially planned to make a bonnet because it was a way to recreate an item th
 
 # Citations:
 Thank you to Stylebyreme on Youtube for her tutorial titled "DIY: HOW TO MAKE A REVERSIBLE ELASTIC HAIR BONNET WITH REVERSIBLE BAND." This allowed me to have the insturction to construct the bonnet itself. 
+<iframe width="396" height="222" src="https://www.youtube.com/embed/XqXieaa8TwI" title="DIY: HOW TO MAKE A REVERSIBLE ELASTIC HAIR BONNET WITH REVERSIBLE BAND." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
