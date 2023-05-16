@@ -35,7 +35,9 @@ I initially planned to make a bonnet because it was a way to recreate an item th
 ![switch](https://asawadogo98.github.io/assets/IMG-5080.jpg)
 # These Pictures Show the Working Project:
 #### One image is of the manually powered band, one image is the light sensor when it detects light, and the last image is when the light sensor is covered and therefore detects darkness.
-
+![one](https://asawadogo98.github.io/assets/img/IMG-5093.jpg)
+![two](https://asawadogo98.github.io/assets/img/IMG-5094.jpg)
+![three](https://asawadogo98.github.io/assets/img/IMG-5095.jpg)
 # Three Tips to My Past Self:
 * Test your light sensor at different times of day because the value of “dark” fluctuates in part based on the amount of natural light in the room. 
 * Use a safety pin to pull your elastic band through the two sheets of fabric to make it easier. 
