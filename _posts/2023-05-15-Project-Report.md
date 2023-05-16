@@ -28,4 +28,4 @@ I initially planned to make a bonnet because it was a way to recreate an item th
 1. Needle
 1. Sewing Machine 
 # Revised Paper Prototype: 
-![revised](https://asawadogo98.github.io/assets/img/IMG_5081.jpg)
+![revised](https://asawadogo98.github.io/assets/img/IMG-5081.jpg)
