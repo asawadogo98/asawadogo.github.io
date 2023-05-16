@@ -31,6 +31,6 @@ I initially planned to make a bonnet because it was a way to recreate an item th
 ![revised](https://asawadogo98.github.io/assets/IMG-5081.jpg)
 # Alligator Clip Prototype: 
 #### This is an alligator clip prototype of the LEDs that were connected to the light sensor and arduino board:
-![sensor](https://asawadogo98.github.io/assets/IMG_4924.jepg)
+![sensor](https://asawadogo98.github.io/assets/IMG_4924.jpeg)
 #### This is an alligator clip prototype of the digital LEDs that were connected to a battery and switch: 
 ![switch](https://asawadogo98.github.io/assets/IMG-5080.jpg)
