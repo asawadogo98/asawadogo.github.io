@@ -42,3 +42,6 @@ I initially planned to make a bonnet because it was a way to recreate an item th
 * Test your light sensor at different times of day because the value of “dark” fluctuates in part based on the amount of natural light in the room. 
 * Use a safety pin to pull your elastic band through the two sheets of fabric to make it easier. 
 * Slow down as you're sewing your fabric together so that the thread doesn’t get caught which results in having to restart.
+
+# Citations:
+<iframe width="396" height="222" src="https://www.youtube.com/embed/XqXieaa8TwI" title="DIY: HOW TO MAKE A REVERSIBLE ELASTIC HAIR BONNET WITH REVERSIBLE BAND." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
