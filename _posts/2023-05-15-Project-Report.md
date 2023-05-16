@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Project Report-- My Glow in the Dark, LED Bonnet!
+title: My Glow in the Dark, LED Bonnet!
 gh-repo: asawadogo98/asawadogo98
 gh-badge: [star, fork, follow]
 comments: true
 ---
-# Description: 
+# Project Report Description: 
 For my final project, I sewed a bonnet with two bands from scratch. Five LED lights were placed on each band resulting in ten total LEDs. On the right band, I sewed my LEDs along with my LilyPad Arduino board and light sensor with conductive thread. Using Arduino, I wrote a code that would cause those LEDs to light up when the light sensor detects that it’s dark in the room. On the other band, I had 5 other LEDs sewn with conductive thread that could be manually turned on by a switch that was connected to a battery. The bands were about the circumference of the bonnet in length and could be attached around the hairline with sewn in velcro strips for extra security when sleeping.
 # Why a light Up Bonnet? My Motivation:
 I initially planned to make a bonnet because it was a way to recreate an item that’s a daily part in the lives of Black women such as myself. I wanted to use this course to uplift my identity and by extension, my community while showcasing all that I had learned thus far. Bonnets hold significance because they act as a protective barrier for our hair against rougher material we may encounter while we’re asleep. Because they're typically used at night, I thought it would be fun for the LEDs to be light sensitive which is why I chose to use my light sensor as my analog input. Given the limitation of space, I made the other band be manually powered with a switch in case I ever wanted to show off my creation even if it wasn’t dark.
