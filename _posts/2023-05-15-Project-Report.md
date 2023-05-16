@@ -37,6 +37,6 @@ I initially planned to make a bonnet because it was a way to recreate an item th
 # Working Video:
 ! [video](https://github.com/asawadogo98/asawadogo98.github.io/assets/124659269/b964509d-bfb2-4a15-b71a-3fc69296b555)
 # Three Tips to My Past Self:
-1. Test your light sensor at different times of day because the value of “dark” fluctuates in part based on the amount of natural light in the room. 
-1. Use a safety pin to pull your elastic band through the two sheets of fabric to make it easier. 
-1. Slow down as you're sewing your fabric together so that the thread doesn’t get caught which results in having to restart.
+* Test your light sensor at different times of day because the value of “dark” fluctuates in part based on the amount of natural light in the room. 
+* Use a safety pin to pull your elastic band through the two sheets of fabric to make it easier. 
+* Slow down as you're sewing your fabric together so that the thread doesn’t get caught which results in having to restart.
